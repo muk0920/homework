@@ -1,0 +1,7 @@
+version: "3"
+
+services: 
+    mysql_hw:
+        image: test_mysql
+        container_name : test_mysql
+        
